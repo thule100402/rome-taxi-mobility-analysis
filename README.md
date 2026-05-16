@@ -24,15 +24,15 @@ Geospatial analysis
 Statistical analysis
 
 ## Key Insights
-Taxi activity concentrated heavily in central urban areas
-Driver activity levels varied significantly
-GPS datasets contained substantial spatial noise
-Individual driver behaviour differed from overall fleet patterns
+- Taxi activity concentrated heavily in central urban areas
+- Driver activity levels varied significantly
+- GPS datasets contained substantial spatial noise
+- Individual driver behaviour differed from overall fleet patterns
 
 ## Business Recommendations
-Improve taxi fleet allocation in high-demand zones
-Enhance GPS anomaly detection systems
-Support transport planning through mobility analytics
+- Improve taxi fleet allocation in high-demand zones
+- Enhance GPS anomaly detection systems
+- Support transport planning through mobility analytics
 
 ## Repository Structure
 ```text
