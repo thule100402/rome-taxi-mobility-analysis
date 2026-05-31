@@ -40,6 +40,5 @@ rome-taxi-mobility-analysis/
 │
 ├── report/
 ├── code/
-├── visuals/
 └── data/
 ```
